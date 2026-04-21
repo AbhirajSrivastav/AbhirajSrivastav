@@ -57,15 +57,9 @@ When I'm not coding, I'm managing these channels:
   </picture>
 </div>
 ---
-### 📊 My GitHub Language Stats & Trophies
 
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AbhirajSrivastav&show_icons=true&theme=radical" alt="Abhiraj's Stats" height="150px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhirajSrivastav&layout=compact&theme=radical" alt="Top Langs" height="150px" />
-</p>
 ### 📫 Connect with me
 - 📍 **Location:** Patna, Bihar
-- 🎓 **Education:** BCA @ St. Xavier's (Batch 2023-2026)
+- 🎓 **Education:** BCA @ St. Xavier's College of Management & Technology (Batch 2023-2026)
 - 💼 **LinkedIn:** www.linkedin.com/in/theabhirajsrivastava
-
 *"Building the future, one frame and one line of code at a time."*
