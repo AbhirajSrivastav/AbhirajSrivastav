@@ -53,6 +53,6 @@ When I'm not coding, I'm managing these channels:
 ### 📫 Connect with me
 - 📍 **Location:** Patna, Bihar
 - 🎓 **Education:** BCA @ St. Xavier's (Batch 2023-2026)
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 💼 **LinkedIn:** [linkedin.com/in/your-profile](www.linkedin.com/in/theabhirajsrivastava)
 
 *"Building the future, one frame and one line of code at a time."*
