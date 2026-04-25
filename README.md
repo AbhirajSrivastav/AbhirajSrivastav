@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Software Developer | AI Enthusiast | Content Creator
 
-I'm a final-year BCA student at St. Xavier's College of Management & Technology, Patna. I bridge the gap between complex code and creative storytelling, specializing in AI orchestration and full-stack development.
+I am a final-year BCA student at St. Xavier's College of Management & Technology, Patna. I bridge the gap between complex code and creative storytelling, specializing in AI orchestration and full-stack development.
 
 ---
 
