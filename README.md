@@ -1,6 +1,6 @@
 # Hi there, I am Abhiraj Srivastava! 👋
 
-### 👨‍💻 Software Developer | AI Enthusiast | Content Creator
+## 👨‍💻 Software Developer | AI Enthusiast | Content Creator
 
 I am a final-year BCA student at St. Xavier's College of Management & Technology, Patna. I bridge the gap between complex code and creative storytelling, specializing in AI orchestration and full-stack development.
 
