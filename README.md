@@ -1,4 +1,4 @@
-# Hi there, I am Abhiraj Srivastava! 👋
+# Hi there, I'm Abhiraj Srivastava! 👋
 
 ## 👨‍💻 Software Developer | AI Enthusiast | Content Creator
 
