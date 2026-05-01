@@ -18,7 +18,7 @@ I'm a final-year BCA student at St. Xavier's College of Management & Technology,
 ### 🛠️ Tech Stack & Tools
 
 | Category | Technologies |
-| :--- | :--- |
+| :--- | :---|
 | **Languages** | Python, Java, JavaScript (ES6+), SQL, HTML/CSS |
 | **Frontend** | React.js, Tailwind CSS |
 | **Backend** | Node.js, FastAPI, Express |
