@@ -34,7 +34,7 @@ I'm a final-year BCA student at St. Xavier's College of Management & Technology,
 
 ---
 
-### 🎥 My Creative   Universe
+### 🎥 My Creative Universe
 When I'm not coding, I'm managing these channels:
 * 🎬 **[AviVlogs](https://youtube.com/@AviVlogs)** –  Vlogs &  Challenges.
 * 🎨 **[SketchSaga](https://youtube.com/@SketchSaga)** – Art & Tutorials.
