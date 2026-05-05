@@ -62,4 +62,4 @@ When I'm not coding, I'm managing these channels:
 - 📍 **Location:** Patna, Bihar
 - 🎓 **Education:** BCA @ St. Xavier's College of Management & Technology (Batch 2023-2026)
 - 💼 **LinkedIn:** www.linkedin.com/in/theabhirajsrivastava
-*"Building the future, one frame and one line of code at a time."*
+*"Building the future, one frame and one line of code at a time." *
