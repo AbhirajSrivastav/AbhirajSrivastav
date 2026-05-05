@@ -55,7 +55,7 @@ When I'm not coding, I'm managing these channels:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhirajSrivastav/AbhirajSrivastav/github-contribution-grid-snake/github-contribution-grid-snake.svg">
     <img alt="Abhiraj's GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/AbhirajSrivastav/AbhirajSrivastav/github-contribution-grid-snake/github-contribution-grid-snake.svg">
   </picture>
-</div>
+</div >
 ---
 
 ### 📫 Connect with me
