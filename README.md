@@ -11,7 +11,7 @@ I'm a final-year BCA student at St. Xavier's College of Management & Technology,
 - 🌱 **Learning:** Deepening my expertise in **Agentic AI** and **AI Orchestration**.
 - 👯 **Looking to collaborate on:** Open-source projects involving **Computer Vision** (OpenCV/dlib) or innovative **React.js** applications.
 - 💬 **Ask me about:** Python, Java, Full-stack development, or how to grow a YouTube channel.
-- ⚡ **Fun fact:** I'm currently running a **30-day vlogging challenge** on my YouTube channel!
+- ⚡ **Fun fact:** I'm currently running a **30-day vlogging challenge** on my YouTube channel !
 
 ---
 
