@@ -47,7 +47,7 @@ When I'm not coding, I'm managing these channels:
 <img src="https://github-readme-stats.vercel.app/api?username=AbhirajSrivastav&show_icons=true&theme=radical" alt="Abhiraj's Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhirajSrivastav&layout=compact&theme=radical" alt="Top Langs" />
 </p>
-### 📊 My Contribution Activity in 3D (Generated Weekly)
+### 📊 My Contribution Activity in 3D (Generated  Weekly)
 
 <div align="center">
   <picture>
