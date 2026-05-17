@@ -30,7 +30,7 @@ I'm a final-year BCA student at St. Xavier's College of Management & Technology,
 ### 📂 Featured Projects
 - **Automated Attendance System:** A facial recognition-based solution built with Python, OpenCV, and dlib.
 - **Interactive Game Suite:** A collaborative suite of 8 browser-based games developed with vanilla JS.
-- **Deception Detection:** Real-time stress analysis using Fast API and MediaPipe.
+- **Deception Detection:** Real-time stress analysis using FastAPI and MediaPipe.
 
 ---
 
